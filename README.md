@@ -1,13 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/horizon-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/horizon-light.svg">
-  <img src="assets/horizon-light.svg" alt="A small sun resting on a quiet horizon." width="160" height="48">
-</picture>
+<img src="assets/sunset-panorama.webp" alt="Sunset over a mountain lake, with subtle code glyphs and outdoor adventures." width="480" height="160">
 
-**Engineer & curious human.**
-
-Building thoughtful software. Exploring what’s next.
-
-TypeScript · React · Node.js
+I enjoy making things and spending time outdoors. I like exploring new ideas, learning as I go, and finding a little space to slow down.
 
 [antonio.mk](https://antonio.mk) · [Say hello](mailto:me@antonio.mk)
